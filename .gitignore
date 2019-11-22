@@ -1,0 +1,10 @@
+packages
+bin
+obj
+/.vs
+*.user
+**/.vs
+**/bin
+/Simplify/Simplify.App/Release
+/Simplify/Simplify.IntegrationTests/Release
+/Simplify/Simplify.Tests/Release
