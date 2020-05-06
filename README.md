@@ -1,8 +1,8 @@
 # Sandbox
 
-[Deep Link Flutter TEST](http://deeplink.flutter.dev)
+[Deep Link Flutter TEST](http://test.deeplink.dev)
 
-[Deep Link With param Flutter TEST](http://deeplink.flutter.dev/parameter)
+[Deep Link With param Flutter TEST](http://test.deeplink.dev/parameter)
 
 [Deep Link Flutter](http://deeplink.flutter.dev)
 
